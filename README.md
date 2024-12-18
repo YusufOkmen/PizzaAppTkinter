@@ -1,0 +1,1 @@
+In this repo I made a simple pizza order programme by using tkinter. I watched a Youtube video while doing this. And the end of this project, I can say that I have some informantion about making an application interface. 
